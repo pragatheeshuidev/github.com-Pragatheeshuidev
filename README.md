@@ -1,26 +1,51 @@
-# github.com-Pragatheeshuidev
-# 👋 Hey, I’m Pragatheesh  
-🚀 Data Storyteller | 📊 Business Analyst in Progress | ⚡ Open Source Enthusiast  
-## 🛠️ What I Build  
-- Interactive **Power BI dashboards** that talk back with data  
-- Data pipelines & automation using **Python + SQL**  
-- Open-source contributions that help analysts scale smarter  
-## ⚡ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+<img align="center" src="https://i.imgur.com/7m0R6dI.gif" alt="banner" />
 
-## 📊 Featured Projects  
-- 🔌 [ChargeFlow: EV Charging Optimization Dashboard](link_here)  
-- 🤖 [AI Ethics Index – Real-Time Tracker](link_here)  
-- 🚦 [Traffic Accident Analysis & Severity Prediction](link_here)  
+# 👋 Hey, I'm Pragatheesh  
 
-## 📈 GitHub Stats  
-![Pragatheesh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+📊 Data Whisperer | 🚀 Business Analyst in the Making | ⚡ Open-Source Contributor  
 
-## 🌍 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFB1&lines=Turning+Data+into+Decisions;Building+Stories+with+Dashboards)](https://git.io/typing-svg)
+## 🧩 About Me  
+- 🔭 Building dashboards & data stories with **Power BI / Tableau**  
+- 🌱 Exploring **Business Analysis, BI Dev, and Product Analytics**  
+- 🛠 Passionate about **Data Pipelines, Visualization, and Automation**  
+- 🎯 Goal: Crack into top-tier MNCs (Google, Microsoft, Cisco… I’m coming 👀)  
+- ⚡ Fun fact: I see datasets like Spotify playlists — messy, but remixable.  
 
+---
+
+## 🛠️ Skills & Tools  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel,git,github,js,html,css,react,figma,linux,azure,aws,docker,kubernetes&perline=9" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+🔹 [ChargeFlow: Optimizing EV Charging Stations](https://github.com/YourRepo) — Smart analytics for India’s EV revolution  
+🔹 [AI Ethics Index](https://github.com/YourRepo) — Tracking AI tools & bias risks in real-time  
+🔹 [Decision Analytics Hub](https://github.com/YourRepo) — Power BI dashboards for smarter insights  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+📬 **Let’s Collaborate:**  
+✉️ [Pragatheesh.r3@gmail.com](mailto:Pragatheesh.r3@gmail.com)  
+🔗 [LinkedIn]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/pragatheesh-r/))  
+🌍 [Portfolio](https://YourPortfolio.com)  
+
+---
+✨ *“Turning raw data into stories that move decisions.”*  
