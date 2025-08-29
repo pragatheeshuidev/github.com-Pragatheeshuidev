@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pragatheeshuidev/Pragatheeshuidev/main/code.gif" alt="Code Banner" width="100%" />
+  <img src="https://github.com/pragatheeshuidev/github.com-Pragatheeshuidev/blob/main/code.gif" alt="Code Banner" width="100%" />
 </p>
 
 ---
