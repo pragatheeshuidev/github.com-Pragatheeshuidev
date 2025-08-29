@@ -5,8 +5,9 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F79C&center=true&vCenter=true&lines=Hey+👋+I'm+Pragatheesh;Data+Storyteller+%7C+BI+Pro;I+Turn+Chaos+Into+Charts;Breaking+Data+Not+Hearts;Coffee+Fueled+Dashboard+Dealer;Future+Forbes+List+Nominee" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C2FF&center=true&vCenter=true&lines=Pragatheesh+Here+👋;Data+%26+Analytics+Storyteller;Business+Analyst+With+A+Vision;Designing+The+Future+One+Dashboard+At+A+Time;From+Insights+To+Impact;Leadership+In+Every+Line+Of+Code" />
 </p>
+
 
 
 ---
