@@ -19,66 +19,9 @@
 ---
 
 ## 🛠️ Skills & Tools  
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=excel" width="48" height="48" alt="Excel" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=tableau" width="48" height="48" alt="Tableau" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=powerbi" width="48" height="48" alt="PowerBI" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=ml" width="48" height="48" alt="Machine Learning" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://devicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    </td>
-  </tr>
-</table>
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,excel,tableau,powerbi,vscode,git,github,blender,ml,html,css,js,react,figma" />
+</p>---
 
 ---
 
