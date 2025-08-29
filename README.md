@@ -5,10 +5,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pragatheeshuidev/Pragatheeshuidev/code.gif" alt="Code Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pragatheeshuidev/Pragatheeshuidev/main/code.gif" alt="Code Banner" width="100%" />
 </p>
-
-
 
 ---
 
@@ -24,7 +22,7 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,excel,tableau,powerbi,vscode,git,github,html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,excel,tableau,powerbi,vscode,git,github,blender,ml,html,css,js,react,figma" />
 </p>
 
 ---
@@ -51,5 +49,3 @@
 - 💡 “I don’t just analyze data, I translate it into decisions.”  
 - 🎬 Love **photography + storytelling + automobiles**  
 - 🏆 Goal → Break into **top-tier MNCs** (Google, Microsoft, Cisco)  
-
----
