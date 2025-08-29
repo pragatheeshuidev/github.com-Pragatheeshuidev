@@ -22,14 +22,12 @@
 
 ## 🛠️ Skills & Expertise – Data Storyteller Edition
 ---
-                  Python 🐍
-             SQL 🗄️         ML 🤖
-        Excel 📊       Power BI 💡       Tableau 📊
-   Git 🔧     GitHub 🐙     Figma 🎨     HTML 💻
-        CSS 🎨       JS ⚡       Statistics 📈
-             KPI Design 📌   Requirement Gathering 📝
-                  Data Analysis 📊
-                      Data Storytelling 📖
+🐍 Python    🗄️ SQL    🤖 ML  
+💡 Power BI  📈 Tableau  📊 Excel  
+🔧 Git       🐙 GitHub  🎨 Figma  
+💻 HTML      🎨 CSS     ⚡ JS  
+📈 Statistics 📌 KPI     📝 Requirements  
+📊 Data Analysis 📖 Storytelling
 
 
 ---
