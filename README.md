@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&lines=Pragatheesh+Here+👋;Data+Storyteller+📊;Business+Analyst+🔍;Dashboard+Architect+🖥️;Turning+Data+→+Decisions;Future+Forbes+Nominee+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pragatheeshuidev/Pragatheeshuidev/main/code.gif" alt="Code Banner" width="100%" />
+</p>
+
 
 
 
