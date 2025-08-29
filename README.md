@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,excel,tableau,powerbi,vscode,git,github,blender,ml,html,css,js,react,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,excel,tableau,powerbi,vscode,git,github,blender,ml,html,css,js,react,figma&perline=4" />
 </p>
 
 ---
