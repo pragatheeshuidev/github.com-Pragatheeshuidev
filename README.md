@@ -1,51 +1,53 @@
-<img align="center" src="https://i.imgur.com/7m0R6dI.gif" alt="banner" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Pragatheeshuidev/Pragatheeshuidev/blob/main/code.gif" alt="banner" width="100%" />
+</p>
 
-# 👋 Hey, I'm Pragatheesh  
-
-📊 Data Whisperer | 🚀 Business Analyst in the Making | ⚡ Open-Source Contributor  
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F79C&center=true&vCenter=true&lines=Hey+👋+I'm+Pragatheesh;Data+%26+Analytics+Storyteller;Business+Analyst+%7C+BI+Developer;Future+Forbes+List+Nominee" />
+</p>
 
 ---
 
-## 🧩 About Me  
-- 🔭 Building dashboards & data stories with **Power BI / Tableau**  
-- 🌱 Exploring **Business Analysis, BI Dev, and Product Analytics**  
-- 🛠 Passionate about **Data Pipelines, Visualization, and Automation**  
-- 🎯 Goal: Crack into top-tier MNCs (Google, Microsoft, Cisco… I’m coming 👀)  
-- ⚡ Fun fact: I see datasets like Spotify playlists — messy, but remixable.  
+## 👨‍💻 About Me  
+- 🚀 Data & Business Analyst passionate about **storytelling with data**  
+- 📊 Skilled in **Power BI, Tableau, SQL, Python, Excel**  
+- 🧠 Exploring **AI + Business Intelligence + Product Strategy**  
+- 🌎 Building futuristic dashboards & decision systems  
+- 📧 Reach me at: **[Pragatheesh.r3@gmail.com](mailto:Pragatheesh.r3@gmail.com)**  
+- 🔗 Connect: [LinkedIn](https://www.linkedin.com/in/pragatheeshr3) | [Portfolio](#)  
 
 ---
 
 ## 🛠️ Skills & Tools  
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel,git,github,js,html,css,react,figma,linux,azure,aws,docker,kubernetes&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,excel,tableau,powerbi,vscode,git,github,html,css,js,react,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-🔹 [ChargeFlow: Optimizing EV Charging Stations](https://github.com/YourRepo) — Smart analytics for India’s EV revolution  
-🔹 [AI Ethics Index](https://github.com/YourRepo) — Tracking AI tools & bias risks in real-time  
-🔹 [Decision Analytics Hub](https://github.com/YourRepo) — Power BI dashboards for smarter insights  
+## 📂 Featured Projects  
+- ⚡ **ChargeFlow** → Optimizing EV Charging Stations in India  
+- 📈 **AI Ethics Index** → Real-time bias & risk tracker for AI tools  
+- 🎯 **Retail Insights Hub** → Power BI dashboards for sales forecasting  
+- 🔍 **Traffic Severity Prediction** → ML + Data Visualization  
+
+➡️ More in my repo: [bi-projects-collection-main](https://github.com/Pragatheeshuidev/bi-projects-collection-main)  
 
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragatheeshuidev&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatheeshuidev&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-
-📬 **Let’s Collaborate:**  
-✉️ [Pragatheesh.r3@gmail.com](mailto:Pragatheesh.r3@gmail.com)  
-🔗 [LinkedIn]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/pragatheesh-r/))  
-🌍 [Portfolio](https://YourPortfolio.com)  
+## 🌍 Fun Facts  
+- 💡 “I don’t just analyze data, I translate it into decisions.”  
+- 🎬 Love **photography + storytelling + automobiles**  
+- 🏆 Goal → Break into **top-tier MNCs** (Google, Microsoft, Cisco)  
 
 ---
-✨ *“Turning raw data into stories that move decisions.”*  
